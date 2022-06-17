@@ -1,2 +1,2 @@
 # Obligatorio1-semestre-3
-Es un trabajo creado por mi para la materia de programacion3 
+Es el codigo del proyecto que se nos presento en este semestre
